@@ -78,10 +78,10 @@ Learn more [here](https://help.apple.com/icloud) in the *help documentation*.
 > * Saved Bags
 >     - See any bags an Apple Specialist saved for you.
 
-*However I think it is only possible to manage subscriptions of
+*However, I think it is only possible to manage subscriptions of
 products purchased in Apple Store / iTunes through iTunes App or
-through iOS Settings ⇢ Apple ID ⇢ iTunes & App Store and click on top
-link.*
+through iOS Settings ⇢ Apple ID ⇢ iTunes & App Store and click
+on the top link.*
 
 ## Microsoft
 
@@ -111,6 +111,7 @@ and
 
 > * When you link your Microsoft account to Office, it means anytime you want to install or reinstall Office you won't need to re-enter your product key, or hang on to an installation disc or thumb drive.
 > * If you use Office 365, you can add your credit card information to your
+
 Microsoft account and turn on recurring billing so Office is always available.
 
 
