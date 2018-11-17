@@ -97,18 +97,18 @@ and
 > Using a Microsoft account and linking it with your Office for home product
 > connects you to various Microsoft products and services, and makes it simple
 > to reinstall Office without a product key.
-
+>
 > *Note: Linking a Microsoft account with Office only applies to Office 365 Home,
 > Personal, or University, or Office 2013 or newer versions such as Office Home
 > and Student, Office Home and Business, Office Professional and some versions
 > of Office Professional Plus.*
 >
 > * A Microsoft account is required to install and activate Office versions 2013 or later, and Office 365 for home products.
-
+>
 > * You might already have a Microsoft account if you use a service like Outlook.com, OneDrive, Xbox Live, or Skype; or if you purchased Office from the online Microsoft Store.
-
+>
 > * If you don't have a Microsoft account yet, you’ll be asked to create one the first time you install or activate your copy of Office.
-
+>
 > * When you link your Microsoft account to Office, it means anytime you want to install or reinstall Office you won't need to re-enter your product key, or hang on to an installation disc or thumb drive.
 > * If you use Office 365, you can add your credit card information to your
 > Microsoft account and turn on recurring billing so Office is always available.
