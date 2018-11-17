@@ -111,8 +111,7 @@ and
 
 > * When you link your Microsoft account to Office, it means anytime you want to install or reinstall Office you won't need to re-enter your product key, or hang on to an installation disc or thumb drive.
 > * If you use Office 365, you can add your credit card information to your
-
-Microsoft account and turn on recurring billing so Office is always available.
+> Microsoft account and turn on recurring billing so Office is always available.
 
 
 ## Cloud Computing
