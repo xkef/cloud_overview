@@ -5,8 +5,7 @@ These are just a few quick links for managing the chaos of the big four.
 
 ## Google
 
-[**Google Dashboard**]
-(https://myaccount.google.com/dashboard)
+[**Google Dashboard**](https://myaccount.google.com/dashboard)
 
 > See and manage the data in your Google Account
 > Your data includes the things you do, like searches,
